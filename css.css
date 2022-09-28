@@ -1,0 +1,49 @@
+ body{
+    background-color: black;
+    font-family: roboto ;
+    color: aliceblue;
+    letter-spacing: 1.3em;
+    font-weight: 100;
+}
+h3{
+     
+     margin-top:0.55em;
+     margin-left: 0.7em;
+     
+}
+
+nav{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+}
+nav input{
+    margin-top: 12px;
+    border: none;
+    padding: 5px;
+   position: relative;
+   
+  
+}
+
+.btn{
+     border: none;
+     margin-left:0em;
+}
+
+#search{
+     margin-left:auto ;
+}
+#carouselExampleControls{
+     background-color: black;
+     opacity:1;
+     width:70%; 
+     margin-left: 250px;
+
+}
+.carousel .slide{
+     height: 600px;
+   
+}
+
+
